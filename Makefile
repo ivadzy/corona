@@ -1,2 +1,2 @@
 install:
-	cp Corona.xccolortheme "Corona(dark).xccolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+	cp Corona.xccolortheme Milano.xccolortheme Pripyat.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
